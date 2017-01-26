@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+/apex.exe
+/project.json
+/functions/DailyFactsFeed/new-data.json
+/functions/DailyFactsFeed/old-data.json
+/functions/DailyFactsFeed/config.json
+/functions/DailyFactsFeed/node_modules/

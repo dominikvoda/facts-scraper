@@ -1,0 +1,16 @@
+{
+  "name": "daily-facts-feed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dominik Voda (d.voda94@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "slack-node": "^0.1.8",
+    "twitter": "^1.7.0"
+  }
+}

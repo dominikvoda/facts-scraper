@@ -1,0 +1,25 @@
+{
+  "twitter": {
+    "consumer_key": "",
+    "consumer_secret": "",
+    "access_token_key": "",
+    "access_token_secret": "",
+    "accounts": [
+      ""
+    ]
+  },
+  "slack": {
+    "webHookUri": "",
+    "channel": "",
+    "botName": "Všeználek"
+  },
+  "bot": {
+    "newDataFile": "new-data.json",
+    "oldDataFile": "old-data.json",
+    "days": [1, 2, 3, 4, 5],
+    "timeInterval": {
+      "from": 6,
+      "to": 23
+    }
+  }
+}
